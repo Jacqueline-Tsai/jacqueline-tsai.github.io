@@ -1,0 +1,140 @@
+{
+    "experiences": {
+        "description": "Professional and academic",
+        "title": "Experience",
+        "professional": [
+            {
+                "year": "January 2023- July 2023",
+                "title": "Software Engineer, Internship",
+                "content": ""
+            },
+            {
+                "year": "January 2023- July 2023",
+                "title": "Software Developer, Internship",
+                "content": ""
+            },
+            {
+                "year": "01.2020 - 05.2020",
+                "title": "Research Assistant",
+                "content": ""
+            }
+        ],
+        "academic": [
+            {
+                "year": "January 2024 - July 2024",
+                "title": "Exchange Student in Computer Science Department",
+                "content": "Aalto University, Finland"
+            },
+            {
+                "year": "September 2023",
+                "title": "TOEFL Certification",
+                "content": "Reading: 28/30, Listening: 26/30, Speaking: 22/30, Writing: 34/30"
+            },
+            {
+                "year": "September 2020 - December 2023",
+                "title": "Bachelor's degree program of Finance",
+                "content": "National Taiwan University of Science and Technology"
+            },
+            {
+                "year": "September 2019 - December 2022",
+                "title": "Bachelor's degree of Science in Computer Science",
+                "content": "National Taiwan University of Science and Technology"
+            }
+        ]
+    },
+    "description": {
+        "pres_second": "",
+        "pres_first": "",
+        "pres_title": "Who am I ?",
+        "description": "Hope to know you after",
+        "title": "About Me"
+    },
+    "profile": {
+        "name": "Jacqueline (Yun Hsuan) Tsai",
+        "status": "Full-Stack Developer",
+        "email": "jaynnah01180118@gmail.com",
+        "phone": "+886 908512902",
+        "city": "Taipei, Taiwan",
+        "lang": "Chinese (Mandarin), English",
+        "photo": "avator.jpg"
+    },
+    "links": {
+        "facebook": "https://www.facebook.com/hugo.bollon",
+        "instagram": "https://www.instagram.com/_hbollon",
+        "linkedin": "https://www.linkedin.com/in/hugobollon",
+        "github": "https://github.com/hbollon"
+    },
+    "skills": {
+        "items": [
+            {
+                "title": "C",
+                "img": "C.png"
+            },
+            {
+                "title": "C++",
+                "img": "cplusplus.png"
+            },
+            {
+                "title": "Python",
+                "img": "cplusplus.png"
+            },
+            {
+                "title": "C#",
+                "img": "Csharp.png"
+            },
+            {
+                "title": "Java",
+                "img": "java.png"
+            },
+            {
+                "title": "HTML",
+                "img": "html.png"
+            },
+            {
+                "title": "CSS",
+                "img": "css.png"
+            },
+            {
+                "title": "PHP",
+                "img": "php.png"
+            },
+            {
+                "title": "VueJS",
+                "img": "vuejs.png"
+            },
+            {
+                "title": "Android",
+                "img": "android.png"
+            },
+            {
+                "title": "Linux",
+                "img": "linux.png"
+            },
+            {
+                "title": "Git/Github",
+                "img": "Octocat.png"
+            },
+            {
+                "title": "Go",
+                "img": "go.png"
+            }
+        ],
+        "title": "Skills",
+        "description": "Here is my armament"
+    },
+    "projects": {
+        "title": "My projects",
+        "description": "",
+        "items": [
+            {
+                "title": "Bulleten Board",
+                "content": "",
+                "link": "",
+                "image": "",
+                "tag": "Web Security",
+                "color": "red",
+                "date": ""
+            }
+        ]
+    }
+}
