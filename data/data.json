@@ -5,45 +5,50 @@
         "professional": [
             {
                 "year": "January 2023- July 2023",
-                "title": "Software Engineer, Internship",
-                "content": ""
+                "title": "Product Developer Internship</br> Synology Inc. (World-Leading NAS Company)",
+                "content": "&nbsp;1. Contributed to development of Synology Drive, a file management, collaboration, and synchronization system NAS.</br>&nbsp;&nbsp;&nbsp;a. Engineered a Vue.js-based one-click solution to open multiple web pages, designing an algorithm to circumvent browser blockers.</br>&nbsp;&nbsp;&nbsp;b. Developed a bulk notification deletion feature in Synology Drive, leveraging Web API and SQL.</br>&nbsp;&nbsp;c. Developed and integrated an advanced OCR model into the search engine, augmenting system versatility and functionality across various operating platforms by using Docker.</ul></li><li>Enhanced development workflows by implementing GitLab CI/CD pipelines and automating code-review process through seamless integration with OpenAI API, optimizing merge request assessments efficiency. The AI system adeptly identifies code weaknesses recognizing both previous and subsequent versions, thereby mitigating the necessity for manual reviews by up to 50%</li>"
             },
             {
                 "year": "January 2023- July 2023",
-                "title": "Software Developer, Internship",
-                "content": ""
+                "title": "Software Engineer Internship</br> Nuknuk (Software Start-up With US$370k Series A of Fundraising)",
+                "content": "&nbsp;1. Engineered company’s key iOS social media app using SwiftUI and Swift, implemented UI of the home feed page and the shopping feed page.</br>&nbsp;2. Led the implementation of the sign-in system, integrating Firebase Authentication to enhance user account security and streamline the login process.</br>&nbsp;3. Simultaneously balanced responsibilities with a concurrent internship at Synology Inc., showcasing adaptability and excellent organizational abilities."
             },
             {
-                "year": "01.2020 - 05.2020",
-                "title": "Research Assistant",
-                "content": ""
+                "year": "July 2020 - March 2021",
+                "title": "Software Engineer</br> Global Logistics & Supply Chain Management Laboratory, NTUST",
+                "content": "&nbsp;1. Developed a web service for market surveys and customer product selection, automating the Analytic Hierarchy Process (AHP) using Node.js, Vue.js, and MongoDB. Deployed the service on AWS EC2 to manage concurrent requests and enhance security.</br>&nbsp;2. Responsible for code architecture of the whole project, with a focus on efficient RESTful API design, offering valuable insights about code architecture to colleagues.</br>&nbsp;3. Pioneered the combination of AHP application and automatic questionnaire distribution, generation of links and online collection of user questionnaires, significantly improving overall user experience.</br>&nbsp;4. Designed a user-friendly dashboard interface using ChartJs to visualize data and track progress, including daily response metrics and completion status."
+            },
+            {
+                "year": "July 2020 - March 2021",
+                "title": "Research Developer Intern</br> International Games System Co., Ltd.  (Top 3 Game Development Company in Taiwan)",
+                "content": "&nbsp;1. Enhanced the BPM detection model for the company’s dancing game, increasing accuracy from 93% to 98.5% using advanced statistical dispersion algorithms."
             }
         ],
         "academic": [
             {
                 "year": "January 2024 - July 2024",
                 "title": "Exchange Student in Computer Science Department",
-                "content": "Aalto University, Finland"
+                "content": "Aalto University, Finland"  
             },
             {
-                "year": "September 2023",
+                "year": "December 2023",
                 "title": "TOEFL Certification",
-                "content": "Reading: 28/30, Listening: 26/30, Speaking: 22/30, Writing: 34/30"
+                "content": "Reading: 29/30, Listening: 30/30, Speaking: 23/30, Writing: 27/30"
             },
             {
-                "year": "September 2020 - December 2023",
+                "year": "September 2020 - July 2024",
                 "title": "Bachelor's degree program of Finance",
                 "content": "National Taiwan University of Science and Technology"
             },
             {
-                "year": "September 2019 - December 2022",
+                "year": "September 2019 - July 2024",
                 "title": "Bachelor's degree of Science in Computer Science",
                 "content": "National Taiwan University of Science and Technology"
             }
         ]
     },
     "description": {
-        "pres_second": "",
+        "pres_second": "I'm Jacqueline, currently a computer science student. I love programing and applying my expertise into real-world application. In my free time, I like traveling, skiing, and ice skating. I believe persistent effor, even in the face of failure, is the key to success.",
         "pres_first": "",
         "pres_title": "Who am I ?",
         "description": "Hope to know you after",
@@ -51,18 +56,17 @@
     },
     "profile": {
         "name": "Jacqueline (Yun Hsuan) Tsai",
-        "status": "Full-Stack Developer",
+        "status": "Software Engineer",
         "email": "jaynnah01180118@gmail.com",
-        "phone": "+886 908512902",
-        "city": "Taipei, Taiwan",
-        "lang": "Chinese (Mandarin), English",
+        "phone": "+358 417223470",
+        "city": "Espoo, Finland",
+        "lang": "English (Advanced), Chinese (Native), French (Beginner)",
         "photo": "avator.jpg"
     },
     "links": {
-        "facebook": "https://www.facebook.com/hugo.bollon",
-        "instagram": "https://www.instagram.com/_hbollon",
-        "linkedin": "https://www.linkedin.com/in/hugobollon",
-        "github": "https://github.com/hbollon"
+        "instagram": "https://www.instagram.com/jacqueline_tsaii",
+        "linkedin": "https://www.linkedin.com/in/jacqueline-tsai-789180194/",
+        "github": "https://github.com/Jacqueline-Tsai"
     },
     "skills": {
         "items": [
@@ -79,44 +83,80 @@
                 "img": "cplusplus.png"
             },
             {
-                "title": "C#",
-                "img": "Csharp.png"
-            },
-            {
-                "title": "Java",
-                "img": "java.png"
-            },
-            {
-                "title": "HTML",
-                "img": "html.png"
-            },
-            {
-                "title": "CSS",
-                "img": "css.png"
+                "title": "JavaScript",
+                "img": "javascript.png"
             },
             {
                 "title": "PHP",
                 "img": "php.png"
             },
             {
+                "title": "HTML",
+                "img": "html.png"
+            },
+            {
+                "title": "C#",
+                "img": "Csharp.png"
+            },
+            {
+                "title": "Swift",
+                "img": "swift.png"
+            },
+            {
+                "title": "Java",
+                "img": "java.png"
+            },
+            {
+                "title": "Golang",
+                "img": "go.png"
+            },
+            {
+                "title": "SQL",
+                "img": "sql.png"
+            },
+            {
+                "title": "CSS",
+                "img": "css.png"
+            },
+            {
+                "title": "Makefile",
+                "img": "makefile.png"
+            },
+            {
+                "title": "Linux Programming",
+                "img": "linux.png"
+            },
+            {
+                "title": "Git",
+                "img": "Octocat.png"
+            },
+            {
+                "title": "CI/CD",
+                "img": "cicd.png"
+            },
+            {
+                "title": "Docker",
+                "img": "docker.png"
+            },
+            {
                 "title": "VueJS",
                 "img": "vuejs.png"
             },
             {
-                "title": "Android",
-                "img": "android.png"
+                "title": "NodeJS",
+                "img": "nodejs.png"
             },
             {
-                "title": "Linux",
-                "img": "linux.png"
+                "title": "Flask",
+                "img": "flask.png"
             },
             {
-                "title": "Git/Github",
-                "img": "Octocat.png"
+                "title": "AWS",
+                "img": "aws.png"
             },
             {
-                "title": "Go",
-                "img": "go.png"
+                "title": "Firebase",
+                "img": "firebase.png"
             }
         ],
         "title": "Skills",
@@ -128,11 +168,27 @@
         "items": [
             {
                 "title": "Bulleten Board",
-                "content": "",
-                "link": "",
+                "content": "A bulletin board website built using PHP and Apache, which is well protected from serveral attacks: SQL injection, XSS, path traversal, Webshell, command injection and CSRF attacks.<br><br>Link : <a href='https://github.com/Jacqueline-Tsai/web-security-midterm-project'>https://github.com/Jacqueline-Tsai/web-security-midterm-project</a>",
+                "link": "https://github.com/Jacqueline-Tsai/web-security-midterm-project",
                 "image": "",
                 "tag": "Web Security",
                 "color": "red",
+                "date": ""
+            }, {
+                "title": "Finance Management Web App",
+                "content": "A finance management Web with statistic charts and , whiich is built by MySQL, Flask and ChartJS<br><br>Link : <a href='https://github.com/Jacqueline-Tsai/finance-management-system'>https://github.com/Jacqueline-Tsai/finance-management-system</a>",
+                "link": "",
+                "image": "",
+                "tag": "Application",
+                "color": "green",
+                "date": ""
+            }, {
+                "title": "Nach OS",
+                "content": "A re-write of Nachos 3.4. Add debug mode, commnands: Log, Thread Yield, and scheduling methods: FIFO, SJF, PRIORITY<br><br>Link : <a href='https://github.com/Jacqueline-Tsai/operating-system-nachos'>https://github.com/Jacqueline-Tsai/operating-system-nachos</a>",
+                "link": "https://github.com/Jacqueline-Tsai/operating-system-nachos",
+                "image": "",
+                "tag": "System",
+                "color": "blue",
                 "date": ""
             }
         ]

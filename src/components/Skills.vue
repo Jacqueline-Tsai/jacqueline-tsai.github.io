@@ -51,7 +51,7 @@
     }
 
     img{
-        max-width: 120px;
+        max-width: 60px;
     }
 
     .altCaption{
