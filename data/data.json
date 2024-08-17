@@ -4,46 +4,70 @@
         "title": "Experience",
         "professional": [
             {
-                "year": "January 2023- July 2023",
-                "title": "Product Developer Internship</br> Synology Inc. (World-Leading NAS Company)",
-                "content": "&nbsp;1. Contributed to development of Synology Drive, a file management, collaboration, and synchronization system NAS.</br>&nbsp;&nbsp;&nbsp;a. Engineered a Vue.js-based one-click solution to open multiple web pages, designing an algorithm to circumvent browser blockers.</br>&nbsp;&nbsp;&nbsp;b. Developed a bulk notification deletion feature in Synology Drive, leveraging Web API and SQL.</br>&nbsp;&nbsp;c. Developed and integrated an advanced OCR model into the search engine, augmenting system versatility and functionality across various operating platforms by using Docker.</br>&nbsp;1.Enhanced development workflows by implementing GitLab CI/CD pipelines and automating code-review process through seamless integration with OpenAI API, optimizing merge request assessments efficiency. The AI system adeptly identifies code weaknesses recognizing both previous and subsequent versions, thereby mitigating the necessity for manual reviews by up to 50%</li>"
+                "duration": "2023.01 - 2023.07",
+                "title": "Product Developer Internship",
+                "subtitle": "Synology Inc. (World-Leading NAS Company)",
+                "description": "New Taipei, Taiwan",
+                "layer": -1
             },
             {
-                "year": "January 2023- July 2023",
-                "title": "Software Engineer Internship</br> Nuknuk (Software Start-up With US$370k Series A of Fundraising)",
-                "content": "&nbsp;1. Engineered company’s key iOS social media app using SwiftUI and Swift, implemented UI of the home feed page and the shopping feed page.</br>&nbsp;2. Led the implementation of the sign-in system, integrating Firebase Authentication to enhance user account security and streamline the login process.</br>&nbsp;3. Simultaneously balanced responsibilities with a concurrent internship at Synology Inc., showcasing adaptability and excellent organizational abilities."
+                "duration": "2023.01 - 2023.06",
+                "title": "Software Engineer Internship",
+                "subtitle": "Nuknuk",
+                "description": "Remote, SF",
+                "layer": 3
             },
             {
-                "year": "July 2020 - March 2021",
-                "title": "Software Engineer</br> Global Logistics & Supply Chain Management Laboratory, NTUST",
-                "content": "&nbsp;1. Developed a web service for market surveys and customer product selection, automating the Analytic Hierarchy Process (AHP) using Node.js, Vue.js, and MongoDB. Deployed the service on AWS EC2 to manage concurrent requests and enhance security.</br>&nbsp;2. Responsible for code architecture of the whole project, with a focus on efficient RESTful API design, offering valuable insights about code architecture to colleagues.</br>&nbsp;3. Pioneered the combination of AHP application and automatic questionnaire distribution, generation of links and online collection of user questionnaires, significantly improving overall user experience.</br>&nbsp;4. Designed a user-friendly dashboard interface using ChartJs to visualize data and track progress, including daily response metrics and completion status."
+                "duration": "2020.07 - 2021.03",
+                "title": "Software Engineer ",
+                "subtitle": "Global Logistics & Supply Chain Management Laboratory, NTUST",
+                "description": "",
+                "layer": -1
             },
             {
-                "year": "July 2020 - March 2021",
-                "title": "Research Developer Intern</br> International Games System Co., Ltd.  (Top 3 Game Development Company in Taiwan)",
-                "content": "&nbsp;1. Enhanced the BPM detection model for the company’s dancing game, increasing accuracy from 93% to 98.5% using advanced statistical dispersion algorithms."
+                "duration": "2020.04 - 2021.09",
+                "title": "Research Developer Intern",
+                "subtitle": "International Games System Co., Ltd.",
+                "description": "",
+                "layer": 1
             }
         ],
         "academic": [
             {
-                "year": "January 2024 - July 2024",
-                "title": "Exchange Student in Computer Science Department",
-                "content": "Aalto University, Finland"  
+                "duration": "2024.08 - 2026.01",
+                "title": "Carneige Mellon University - School of Computer Science",
+                "subtitle": "Master of Software Engineering",
+                "layer": -2
             },
             {
-                "year": "December 2023",
+                "duration": "2024.10 - 2024.10",
+                "title": "AWS Certification",
+                "subtitle": "Solutions Architect Associate",
+                "layer": 3
+            },
+            {
+                "duration": "2024.01 - 2024.06",
+                "title": "Exchange Student",
+                "subtitle": "Aalto University",
+                "layer": 1
+            },
+            {
+                "duration": "2023.12 - 2023.12",
                 "title": "TOEFL Certification",
-                "content": "Reading: 29/30, Listening: 30/30, Speaking: 23/30, Writing: 27/30"
+                "subtitle": "109 (R: 29, L: 30, S: 23, W: 27)",
+                "layer": 2
             },
             {
-                "year": "September 2020 - July 2024",
+                "duration": "2020.09 - 2024.07",
                 "title": "Bachelor's degree program of Finance",
-                "content": "National Taiwan University of Science and Technology"
+                "subtitle": "National Taiwan University of Science and Technology",
+                "layer": -2
             },
             {
-                "year": "September 2019 - July 2024",
+                "duration": "2019.09 - 2024.07",
                 "title": "Bachelor's degree of Science in Computer Science",
-                "content": "National Taiwan University of Science and Technology"
+                "subtitle": "National Taiwan University of Science and Technology",
+                "layer": -3
             }
         ]
     },
@@ -57,8 +81,8 @@
     "profile": {
         "name": "Jacqueline (Yun Hsuan) Tsai",
         "status": "Software Engineer",
-        "email": "jaynnah01180118@gmail.com",
-        "phone": "+358 417223470",
+        "email": "yunhsuat@andrew.cmu.edu",
+        "phone": "+1(669)455-8557",
         "city": "Pittsburgh, PA",
         "lang": "English (Advanced), Chinese (Native)",
         "photo": "avator.jpg"

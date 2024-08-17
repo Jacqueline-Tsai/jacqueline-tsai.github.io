@@ -40,6 +40,12 @@ export default {
       this.isVisible = this.inViewport()
     }
   },
+  
+  watch: {
+    isVisible(newValue) {
+      this.$emit('visibilityChanged', newValue);
+    }
+} ,
 
   mounted() {
     this.$nextTick(this.detectVisibility)
