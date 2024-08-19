@@ -72,8 +72,8 @@
         ]
     },
     "description": {
-        "pres_second": "Hi! I'm Jacqueline, a software engineer. I love learning software technologies and applying them to solve real-world problems. \nI am currently pursuing a Master’s degree in Software Engineering at Carnegie Mellon University, focusing on enhancing my expertise in software engineering, scalable systems, distributed systems, and cloud computing. \n",
-        "pres_first": "I'm innovative and adventurous. In my free time, I like traveling, skiing, and communicating with different people. \nPersistent effort and unyielding perseverance, I believe, are the keys to success even in the face of failure.\n",
+        "pres_first": "Hi! I'm Jacqueline, a software engineer. I love learning software technologies and applying them to solve real-world problems. \nI am currently pursuing a Master’s degree in Software Engineering at Carnegie Mellon University, focusing on enhancing my expertise in software engineering, scalable systems, distributed systems, and cloud computing. \n",
+        "pres_second": "I'm innovative and adventurous. In my free time, I like traveling, skiing, and communicating with different people. \nPersistent effort and unyielding perseverance, I believe, are the keys to success even in the face of failure.\n",
         "pres_title": "Who am I ?",
         "description": "Hope to know you after",
         "title": "About Me"
