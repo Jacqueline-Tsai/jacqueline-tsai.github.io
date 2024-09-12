@@ -191,17 +191,35 @@
         "description": "",
         "items": [
             {
-                "title": "Bulleten Board",
-                "content": "A bulletin board website built using PHP and Apache, which is well protected from serveral attacks: SQL injection, XSS, path traversal, Webshell, command injection and CSRF attacks.<br><br>Link : <a href='https://github.com/Jacqueline-Tsai/web-security-midterm-project'>https://github.com/Jacqueline-Tsai/web-security-midterm-project</a>",
+                "title": "Memory Allocator",
+                "content": "A a dynamic memory allocator in C; optimized utilization and throughput by incorporating explicit free list, removing footers, and merging best-fit and first-fit algorithms<br><br>Link : <a href='https://github.com/Jacqueline-Tsai/memory-allocator'>https://github.com/Jacqueline-Tsai/memory-allocator</a>",
+                "link": "https://github.com/Jacqueline-Tsai/memory-allocator",
+                "image": "",
+                "tag": "Computer System",
+                "color": "green",
+                "date": ""
+            },
+            {
+                "title": "Code Autograder",
+                "content": "a code auto-grading website for scalability and production environments using Docker, JavaScript, Svelte, Astro, PostgreSQL, and Nginx; conducted functionality and scalability testing with Playwright and k6<br><br>Link : <a href='https://github.com/Jacqueline-Tsai/code-autograder'>https://github.com/Jacqueline-Tsai/code-autograder</a>",
                 "link": "https://github.com/Jacqueline-Tsai/web-security-midterm-project",
+                "image": "",
+                "tag": "Web Security",
+                "color": "red",
+                "date": ""
+            },
+            {
+                "title": "Bulleten Board",
+                "content": "A bulletin board website built using PHP and Apache, which is well protected from serveral attacks: SQL injection, XSS, path traversal, Webshell, command injection and CSRF attacks.<br><br>Link : <a href='https://github.com/Jacqueline-Tsai/bulletin-board-web-application'>https://github.com/Jacqueline-Tsai/bulletin-board-web-application</a>",
+                "link": "https://github.com/Jacqueline-Tsai/bulletin-board-web-application",
                 "image": "",
                 "tag": "Web Security",
                 "color": "red",
                 "date": ""
             }, {
                 "title": "Finance Management Web App",
-                "content": "A finance management Web with statistic charts and , whiich is built by MySQL, Flask and ChartJS<br><br>Link : <a href='https://github.com/Jacqueline-Tsai/finance-management-system'>https://github.com/Jacqueline-Tsai/finance-management-system</a>",
-                "link": "",
+                "content": "A finance management Web with statistic charts and , whiich is built by MySQL, Flask and ChartJS<br><br>Link : <a href='https://github.com/Jacqueline-Tsai/personal-finance-management-system'>https://github.com/Jacqueline-Tsai/personal-finance-management-system</a>",
+                "link": "https://github.com/Jacqueline-Tsai/personal-finance-management-system",
                 "image": "",
                 "tag": "Application",
                 "color": "green",
