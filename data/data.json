@@ -192,7 +192,7 @@
         "items": [
             {
                 "title": "Memory Allocator",
-                "content": "A a dynamic memory allocator in C; optimized utilization and throughput by incorporating explicit free list, removing footers, and merging best-fit and first-fit algorithms<br><br>Link : <a href='https://github.com/Jacqueline-Tsai/memory-allocator'>https://github.com/Jacqueline-Tsai/memory-allocator</a>",
+                "content": "A dynamic memory allocator in C; optimized utilization and throughput by incorporating explicit free list, removing footers, and merging best-fit and first-fit algorithms<br><br>Link : <a href='https://github.com/Jacqueline-Tsai/memory-allocator'>https://github.com/Jacqueline-Tsai/memory-allocator</a>",
                 "link": "https://github.com/Jacqueline-Tsai/memory-allocator",
                 "image": "",
                 "tag": "Computer System",
