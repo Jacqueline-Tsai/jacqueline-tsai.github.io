@@ -1,7 +1,9 @@
 <template>
   <div class="paragraph">
     <h3>{{content.pres_title}}</h3>
-    <div class="begin">{{content.pres_first}}</div>
+    <!-- <div class="begin">{{content.pres_first}}</div> -->
+    <p>{{content.pres_first}}</p>
+    <br>
     <p>{{content.pres_second}}</p>
   </div>
 </template>

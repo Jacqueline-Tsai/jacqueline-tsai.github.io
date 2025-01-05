@@ -42,10 +42,7 @@ export default {
   },
   
   watch: {
-    isVisible(newValue) {
-      this.$emit('visibilityChanged', newValue);
-    }
-} ,
+  },
 
   mounted() {
     this.$nextTick(this.detectVisibility)

@@ -4,23 +4,28 @@
             <Title :title="content.title" :description="content.description" />
         </AnimateOnVisible>
 
-        <div class="section-content">
-            <div class="container-fluid">
-                <div class="row d-flex flex-wrap align-items-center">
-                    <div class="col-md-2 m-auto pb-4" v-for="(post, index) in this.content.items" :key="index">
-                        <AnimateOnVisible name="bounce">
-                            <img id="imgLogo" class="img-responsive mx-auto d-block" :src="getImgUrl(post.img)" :alt="post.title"/>
-                            <div id="divAlt" class="altCaption text-center">{{post.title}}</div>
-                        </AnimateOnVisible>
+        <AnimateOnVisible name="fadeRight" :duration="1">
+            <div class="section-content">
+                <div class="container-fluid">
+                    <div class="skill-sets">
+                        <div v-for="(set, index) in content.sets" :key="index" class="skill-set">
+                            <h2 class="skill-set-title">{{ set.title }}</h2>
+                            <ul class="skill-items">
+                            <li v-for="(item, itemIndex) in set.items" :key="itemIndex" class="skill-item">
+                                {{ item }}
+                            </li>
+                            </ul>
+                        </div>
                     </div>
                 </div>
             </div>
-        </div>
+        </AnimateOnVisible>
+        
     </section>
 </template>
 
 <script>
-    import Title from './Title.vue'
+    import Title from './Title.vue';
 
     export default {
         name: 'Skills',
@@ -36,26 +41,61 @@
     }
 </script>
 
-<style scoped lang="scss">
-    @import '@/styles/constants.scss';
-
-    #skills {
-        background-color: lighten(map-get($colors, dark), 100%);
+<style>
+    .skill-section {
+        margin: 2rem 0;
     }
 
-    @media(min-width: #{map-get($breakpoints, medium)}) {
-        .section-content {
-            width: 80%;
-            margin: 0 auto;
-        }
+    .section-title {
+        font-weight: bold;
+        margin-bottom: 0.5rem;
     }
 
-    img{
-        max-width: 60px;
+    .section-description {
+        color: #666;
+        margin-bottom: 1rem;
     }
 
-    .altCaption{
-        color: map-get($colors, secondary);
-        margin-top: 1rem;
+    .skill-sets {
+        margin-left: 15%;
+        margin-right: 15%;
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        gap: 1.5rem;
+    }
+
+    .skill-set {
+        border: 1px solid #e0e0e0;
+        border-radius: 8px;
+        padding: 1rem;
+        box-sizing: border-box;
+        text-align: center;
+    }
+
+    .skill-set-title {
+        font-weight: bold;
+        margin: 0.75rem;
+    }
+
+    .skill-items {
+        list-style-type: none;
+        padding: 0;
+        margin: 0;
+        display: flex;
+        flex-wrap: wrap;
+        gap: 0.5rem;
+        justify-content: flex-start;
+    }
+
+    .skill-item {
+        display: inline-flex;
+        align-items: center;
+        background-color: #f5f5f5;
+        border-radius: 4px;
+        padding: 0.5rem 1rem;
+        color: #333;
+        box-shadow: 0 1px 2px rgba(0, 0, 0, 0.1);
+        text-align: center;
+        white-space: nowrap;
     }
 </style>

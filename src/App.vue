@@ -3,7 +3,7 @@
     <div class="wrapper" id="app">
       <LandingPage :user="findSlug('profile')" />
       <Description :user="findSlug('profile')" :content="findSlug('description')" :links="findSlug('links')" />
-      <!-- <Experience :content="findSlug('experiences')" /> -->
+      <Experience :content="findSlug('experiences')" />
       <Skills :content="findSlug('skills')" />
       <Projects :content="findSlug('projects')" />
       <Footer :user="findSlug('profile')" :links="findSlug('links')" />
@@ -14,7 +14,7 @@
 <script>
 import LandingPage from "./components/LandingPage.vue";
 import Description from "./components/Description.vue";
-// import Experience from "./components/Experience.vue";
+import Experience from "./components/Experience.vue";
 import Skills from "./components/Skills.vue";
 import Projects from "./components/Projects.vue";
 import Footer from "./components/Footer.vue";
@@ -26,7 +26,7 @@ export default {
   components: {
     LandingPage,
     Description,
-    // Experience,
+    Experience,
     Skills,
     Projects,
     Footer,

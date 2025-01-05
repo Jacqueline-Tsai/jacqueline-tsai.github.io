@@ -1,27 +1,26 @@
 <template>
   <section id="projects">
     <AnimateOnVisible name="fadeDown" :duration="1">
-		<Title
-		class="title"
-		:title="content.title"
-		:description="content.description"
-		/>
+      <Title
+      class="title"
+      :title="content.title"
+      :description="content.description"
+      />
     </AnimateOnVisible>
 
     <div class="container-fluid center-block">
       <article class="content text-center">
-    
-		<AnimateOnVisible class="timeline mx-auto" v-for="(post, index) in content.items" :key="index" name="fadeLeft" :duration="0.5">
-			<vue-timeline-update
-        :date="new Date(post.date)"
-        :title="post.title"
-        :description="post.content"
-        :thumbnail="getImgUrl(post.image)"
-        :color="post.color"
-        :category="post.tag"
-        icon="code"
-      />
-		</AnimateOnVisible>
+        <AnimateOnVisible class="timeline mx-auto" v-for="(post, index) in content.items" :key="index" name="fadeLeft" :duration="0.5">
+          <vue-timeline-update
+            :date="new Date(post.date)"
+            :title="post.title"
+            :description="post.content"
+            :thumbnail="getImgUrl(post.image)"
+            :color="post.color"
+            :category="post.tag"
+            icon="code"
+          />
+        </AnimateOnVisible>
       </article>
     </div>
   </section>
@@ -94,4 +93,9 @@ h1 {
     margin-top: 10px;
     margin-bottom: 20px;
 }
+
+.vue-timeline-update__description {
+  font-size: 1rem; /* Adjust the description font size */
+}
+
 </style>

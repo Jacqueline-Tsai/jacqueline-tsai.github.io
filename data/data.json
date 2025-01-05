@@ -4,70 +4,65 @@
         "title": "Experience",
         "professional": [
             {
+                "duration": "2023.09 - 2024.01",
+                "title": "Software Engineer Intern",
+                "subtitle": "WincanDigitalAssets",
+                "location": "Taipei, Taiwan"
+            },
+            {
                 "duration": "2023.01 - 2023.07",
-                "title": "Product Developer Internship",
+                "title": "Product Developer Intern",
                 "subtitle": "Synology Inc. (World-Leading NAS Company)",
-                "description": "New Taipei, Taiwan",
-                "layer": -1
+                "location": "New Taipei, Taiwan"
             },
             {
                 "duration": "2023.01 - 2023.06",
-                "title": "Software Engineer Internship",
+                "title": "Software Engineer Intern",
                 "subtitle": "Nuknuk",
-                "description": "Remote, SF",
-                "layer": 3
+                "location": "San Francisco, CA"
             },
             {
                 "duration": "2020.07 - 2021.03",
-                "title": "Software Engineer ",
-                "subtitle": "Global Logistics & Supply Chain Management Laboratory, NTUST",
-                "description": "",
-                "layer": -1
+                "title": "Labotary Software Engineer",
+                "subtitle": "Global Logistics & Supply Chain Management Lab, NTUST",
+                "location": "Taipei, Taiwan"
             },
             {
                 "duration": "2020.04 - 2021.09",
                 "title": "Research Developer Intern",
                 "subtitle": "International Games System Co., Ltd.",
-                "description": "",
-                "layer": 1
+                "location": "Taipei, Taiwan"
             }
         ],
         "academic": [
             {
-                "duration": "2024.08 - 2026.01",
-                "title": "Carnegie Mellon University - School of Computer Science",
-                "subtitle": "Master of Software Engineering",
-                "layer": -2
+                "duration": "2025.12",
+                "title": "Master's degree of Software Engineering - Scalable Systems",
+                "subtitle": "Carnegie Mellon University - School of Computer Science",
+                "location": "Pittsburgh, PA, USA"
             },
             {
-                "duration": "2024.10 - 2024.10",
-                "title": "AWS Certification",
-                "subtitle": "Solutions Architect Associate",
-                "layer": 3
-            },
-            {
-                "duration": "2024.01 - 2024.06",
-                "title": "Exchange Student",
+                "duration": "2024.06",
+                "title": "Exchange Student in Computer Science Department",
                 "subtitle": "Aalto University",
-                "layer": 1
+                "location": "Helsinki, Finland"
             },
             {
-                "duration": "2023.12 - 2023.12",
+                "duration": "2023.12",
                 "title": "TOEFL Certification",
-                "subtitle": "109 (R: 29, L: 30, S: 23, W: 27)",
-                "layer": 2
+                "subtitle": "109 (R: 29  L: 30  S: 23  W: 27)"
             },
             {
-                "duration": "2020.09 - 2024.07",
+                "duration": "2024.07",
                 "title": "Bachelor's degree program of Finance",
                 "subtitle": "National Taiwan University of Science and Technology",
-                "layer": -2
+                "location": "Taipei, Taiwan"
             },
             {
-                "duration": "2019.09 - 2024.07",
+                "duration": "2024.07",
                 "title": "Bachelor's degree of Science in Computer Science",
                 "subtitle": "National Taiwan University of Science and Technology",
-                "layer": -3
+                "location": "Taipei, Taiwan"
             }
         ]
     },
@@ -93,102 +88,30 @@
         "github": "https://github.com/Jacqueline-Tsai"
     },
     "skills": {
-        "items": [
-            {
-                "title": "C",
-                "img": "C.png"
-            },
-            {
-                "title": "C++",
-                "img": "cplusplus.png"
-            },
-            {
-                "title": "Python",
-                "img": "cplusplus.png"
-            },
-            {
-                "title": "JavaScript",
-                "img": "javascript.png"
-            },
-            {
-                "title": "PHP",
-                "img": "php.png"
-            },
-            {
-                "title": "HTML",
-                "img": "html.png"
-            },
-            {
-                "title": "C#",
-                "img": "Csharp.png"
-            },
-            {
-                "title": "Swift",
-                "img": "swift.png"
-            },
-            {
-                "title": "Java",
-                "img": "java.png"
-            },
-            {
-                "title": "Golang",
-                "img": "go.png"
-            },
-            {
-                "title": "SQL",
-                "img": "sql.png"
-            },
-            {
-                "title": "CSS",
-                "img": "css.png"
-            },
-            {
-                "title": "Makefile",
-                "img": "makefile.png"
-            },
-            {
-                "title": "Linux Programming",
-                "img": "linux.png"
-            },
-            {
-                "title": "Git",
-                "img": "Octocat.png"
-            },
-            {
-                "title": "CI/CD",
-                "img": "cicd.png"
-            },
-            {
-                "title": "Docker",
-                "img": "docker.png"
-            },
-            {
-                "title": "VueJS",
-                "img": "vuejs.png"
-            },
-            {
-                "title": "NodeJS",
-                "img": "nodejs.png"
-            },
-            {
-                "title": "Flask",
-                "img": "flask.png"
-            },
-            {
-                "title": "AWS",
-                "img": "aws.png"
-            },
-            {
-                "title": "Firebase",
-                "img": "firebase.png"
-            }
-        ],
         "title": "Skills",
-        "description": "Here is my armament"
+        "description": "Here is my armament",
+        "sets": [
+            {
+                "title": "Programming Languages",
+                "items": ["C", "C++", "Python", "SQL", "Go", "JavaScript", "Typescript", "Java", "Swift", "C#" , "PHP", "Makefile", "Bash", "HTML/XML"]
+            },
+            {
+                "title": "Development Tools",
+                "items": ["Linux/Unix", "Git", "Docker", "GCP", "AWS", "gdb", "CI/CD", "Nginx", "SSH", "CMake", "k6", "PostgreSQL", "MongoDB", "NoSQL"]
+            },
+            {
+                "title": "Frameworks",
+                "items": ["CUDA", "Tensorflow", "OpenCV", "gRPC", "GraphQL", "Flask", "Typescript", "Node.js", "RESTful APIs", "SwiftUI", "Vue.js", "React", "Svelte", "Astro"]
+            },
+            {
+                "title": "Others",
+                "items": ["Agile", "Scrum", "Kanban", "JIRA", "Confluence", "Slack", "Trello", "Figma", "Photoshop", "Illustrator", "InDesign", "Premiere Pro", "After Effects"]
+            }
+        ]
     },
     "projects": {
         "title": "My projects",
-        "description": "",
+        "description": "This is my story",
         "items": [
             {
                 "title": "Memory Allocator",
@@ -197,7 +120,7 @@
                 "image": "",
                 "tag": "Computer System",
                 "color": "green",
-                "date": ""
+                "date": "2024-08-01"
             },
             {
                 "title": "Code Autograder",
@@ -206,7 +129,7 @@
                 "image": "",
                 "tag": "Web Security",
                 "color": "blue",
-                "date": ""
+                "date": "2024-07-01"
             },
             {
                 "title": "Bulleten Board",
@@ -215,15 +138,15 @@
                 "image": "",
                 "tag": "Web Security",
                 "color": "red",
-                "date": ""
+                "date": "2022-05-01"
             }, {
                 "title": "Finance Management Web App",
                 "content": "A finance management Web with statistic charts and , whiich is built by MySQL, Flask and ChartJS<br><br>Link : <a href='https://github.com/Jacqueline-Tsai/personal-finance-management-system'>https://github.com/Jacqueline-Tsai/personal-finance-management-system</a>",
                 "link": "https://github.com/Jacqueline-Tsai/personal-finance-management-system",
                 "image": "",
                 "tag": "Application",
-                "color": "green",
-                "date": ""
+                "color": "purple",
+                "date": "2021-07-01"
             }, {
                 "title": "Nach OS",
                 "content": "A re-write of Nachos 3.4. Add debug mode, commnands: Log, Thread Yield, and scheduling methods: FIFO, SJF, PRIORITY<br><br>Link : <a href='https://github.com/Jacqueline-Tsai/operating-system-nachos'>https://github.com/Jacqueline-Tsai/operating-system-nachos</a>",
@@ -231,7 +154,7 @@
                 "image": "",
                 "tag": "System",
                 "color": "blue",
-                "date": ""
+                "date": "2022-11-01"
             }
         ]
     }
