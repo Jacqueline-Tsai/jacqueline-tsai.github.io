@@ -97,15 +97,15 @@
             },
             {
                 "title": "Development Tools",
-                "items": ["Linux/Unix", "Git", "Docker", "GCP", "AWS", "gdb", "CI/CD", "Nginx", "SSH", "CMake", "k6", "PostgreSQL", "MongoDB", "NoSQL"]
+                "items": ["Linux/Unix", "Git", "Docker", "Kubernetes", "GCP", "AWS", "gdb", "CI/CD", "Nginx", "SSH", "CMake", "k6", "PostgreSQL", "MongoDB", "NoSQL", "Unity"]
             },
             {
-                "title": "Frameworks",
-                "items": ["CUDA", "Tensorflow", "OpenCV", "gRPC", "GraphQL", "Flask", "Typescript", "Node.js", "RESTful APIs", "SwiftUI", "Vue.js", "React", "Svelte", "Astro"]
+                "title": "Frameworks / Libraries",
+                "items": ["CUDA", "Tensorflow", "Keras", "OpenCV", "OpenGL", "gRPC", "GraphQL", "Flask", "Typescript", "Node.js", "RESTful APIs", "SwiftUI", "Vue.js", "React", "Svelte", "Astro"]
             },
             {
-                "title": "Others",
-                "items": ["Agile", "Scrum", "Kanban", "JIRA", "Confluence", "Slack", "Trello", "Figma", "Photoshop", "Illustrator", "InDesign", "Premiere Pro", "After Effects"]
+                "title": "Fields",
+                "items": ["Distibuted Systems", "Scalable Systems", "Database Systems", "Cloud Computing", "Parallel Computing", "Web Security", "Full-stack Development", "Software Architecture Design"]
             }
         ]
     },
@@ -127,7 +127,7 @@
                 "content": "a code auto-grading website for scalability and production environments using Docker, JavaScript, Svelte, Astro, PostgreSQL, and Nginx; conducted functionality and scalability testing with Playwright and k6<br><br>Link : <a href='https://github.com/Jacqueline-Tsai/code-autograder'>https://github.com/Jacqueline-Tsai/code-autograder</a>",
                 "link": "https://github.com/Jacqueline-Tsai/web-security-midterm-project",
                 "image": "",
-                "tag": "Web Security",
+                "tag": "Scalable Systems",
                 "color": "blue",
                 "date": "2024-07-01"
             },

@@ -75,6 +75,7 @@
     .skill-set-title {
         font-weight: bold;
         margin: 0.75rem;
+        margin-bottom: 1.5rem;
     }
 
     .skill-items {
