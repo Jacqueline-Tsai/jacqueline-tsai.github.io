@@ -4,6 +4,12 @@
         "title": "Experience",
         "professional": [
             {
+                "duration": "2025.05 - 2025.08",
+                "title": "Software Engineer Intern",
+                "subtitle": "Cisco Systems",
+                "location": "San Jose, CA"
+            },
+            {
                 "duration": "2023.09 - 2024.01",
                 "title": "Software Engineer Intern",
                 "subtitle": "WincanDigitalAssets",
@@ -79,7 +85,7 @@
         "email": "yunhsuat@andrew.cmu.edu",
         "phone": "+1(878)256-5965",
         "city": "Pittsburgh, PA, USA",
-        "lang": "English, Mandarin",
+        "lang": "English",
         "photo": "avator.jpg"
     },
     "links": {
@@ -97,15 +103,15 @@
             },
             {
                 "title": "Development Tools",
-                "items": ["Linux/Unix", "Git", "Docker", "Kubernetes", "GCP", "AWS", "gdb", "CI/CD", "Nginx", "SSH", "CMake", "k6", "PostgreSQL", "MongoDB", "NoSQL", "Unity"]
+                "items": ["Linux/Unix", "Git", "Docker", "Kubernetes", "Helm", "GCP", "AWS", "gdb", "CI/CD", "Nginx", "Kafka", "Redis", "Jenkins", "CMake", "k6", "NoSQL"]
             },
             {
                 "title": "Frameworks / Libraries",
-                "items": ["CUDA", "Tensorflow", "Keras", "OpenCV", "OpenGL", "gRPC", "GraphQL", "Flask", "Typescript", "Node.js", "RESTful APIs", "SwiftUI", "Vue.js", "React", "Svelte", "Astro"]
+                "items": ["C++ STL", "CUDA", "OpenMP", "MPI", "gRPC", "GraphQL", "Tensorflow", "Pytorch", "Restful APIs", "Flask", "Django", "Node.js", "Pytorch", "Google ADK"]
             },
             {
                 "title": "Fields",
-                "items": ["Distibuted Systems", "Scalable Systems", "Database Systems", "Cloud Computing", "Parallel Computing", "Web Security", "Full-stack Development", "Software Architecture Design"]
+                "items": ["Data Engineering", "Cloud Infrastructure", "Distributed Systems", "Scalable Systems", "Database Systems", "System Programming", "Concurrent and Parallel Systems","Full-stack Development", "Software Architecture Design"]
             }
         ]
     },
@@ -113,6 +119,15 @@
         "title": "My projects",
         "description": "This is my story",
         "items": [
+            {
+                "title": "Bustub",
+                "content": "Implemented core components of a relational DBMS in C++: a page cache with LRU-K eviction, concurrent B+ tree index, SQL query execution engine, and MVCC (optimistic multiversion concurrency control) for transactions",
+                "link": "",
+                "image": "",
+                "tag": "Database System",
+                "color": "purple",
+                "date": "2024-08-01"
+            },
             {
                 "title": "Memory Allocator",
                 "content": "A dynamic memory allocator in C; optimized utilization and throughput by incorporating explicit free list, removing footers, and merging best-fit and first-fit algorithms<br><br>Link : <a href='https://github.com/Jacqueline-Tsai/memory-allocator'>https://github.com/Jacqueline-Tsai/memory-allocator</a>",
